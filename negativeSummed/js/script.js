@@ -5,4 +5,4 @@ for (let i=0; i<7; i++){
         summed+=arr[i]
     }
 }
-console.log(summed)
+console.log(summed*-1)
